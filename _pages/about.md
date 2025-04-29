@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About Me (刘杭达)
-I'm a fourth-year Ph.D student in Computer Science and Technology at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/), working on machine learning systems and tensor optimization. My research primarily focuses on developing efficient tensor computation methods and acceleration techniques for deep learning frameworks. I am very fortunate to be advised by Professor [Boyu Diao](https://people.ucas.edu.cn/~bydiao) and Professor [Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) to explore novel approaches in deep learning compilation and optimization.
+I'm a fourth-year Ph.D student in Computer Science and Technology at [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/), working on machine learning systems and tensor optimization. My research primarily focuses on developing efficient tensor computation methods and acceleration techniques for deep learning frameworks. I am advised by Professor [Boyu Diao](https://people.ucas.edu.cn/~bydiao) and Professor [Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) to explore novel approaches in deep learning compilation and optimization.
 
 My recent work focuses the tensor compilation method. I'm also interested in workload scheduling optimization for GPU computing and operator fusion techniques for inference acceleration. My research aims to bridge the gap between theoretical deep learning models and their practical implementation on edge devices.
 
