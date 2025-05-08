@@ -54,7 +54,7 @@ My recent work focuses the tensor compilation method. I'm also interested in wor
 
     **Hangda Liu**, Boyu Diao*, Wenxin Chen, Yongjun Xu
 
-- **[PR-24, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
+- **[PR-25, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
 
     Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, **Hangda Liu**, Zhulin An, Yongjun Xu
 
