@@ -56,7 +56,7 @@ My recent work focuses the tensor compilation method. I'm also interested in wor
 
 - **[PR-24, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
 
-    Ruiqi Liu, Boyu Diao, Libo Huang, Zijia An, **Hangda Liu**, Zhulin An, Yongjun Xu
+    Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, **Hangda Liu**, Zhulin An, Yongjun Xu
 
 - **[NPC-24, CCF-C]** [DTuner: A Construction-Based Optimization Method for Dynamic Tensor Operators Accelerating](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_5)
 
