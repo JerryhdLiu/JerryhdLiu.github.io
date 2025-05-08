@@ -35,7 +35,7 @@ My recent work focuses the tensor compilation method. I'm also interested in wor
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/lnssyzx.png" alt="" style="width:75px; height:75px; margin-right:10px;" />
   <div>
-    Liaoning Province Shiyan High School,<br>
+    <a href="http://www.lnsyzx.com/">Liaoning Province Shiyan High School</a>,<br>
     Shenyang, 2014-2017
   </div>
 </div>
