@@ -43,7 +43,7 @@ My recent work focuses the tensor compilation method. I'm also interested in wor
 
 
 
-# [Publication](https://github.com/JerryhdLiu/JerryhdLiu.github.io/publications)
+# [Publication](https://jerryhdliu.github.io/publications/)
 
 - **[IPDPS-25, CCF-B]** [Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](https://arxiv.org/pdf/2502.11407)
 
