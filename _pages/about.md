@@ -54,13 +54,13 @@ My research primarily focuses on developing efficient tensor computation methods
 
     **Hangda Liu**, Boyu Diao*, Wenxin Chen, Yongjun Xu
 
-- **[PR-25, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
-
-    Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, **Hangda Liu**, Zhulin An, Yongjun Xu
-
 - **[CCGrid-25, CCF-C]** [A Nonlinear Hash-based Optimization Method for SpMV on GPUs](https://arxiv.org/abs/2504.08860)
 
     Chen Yan, Boyu Diao*, **Hangda Liu**, Zhulin An, Yongjun Xu
+
+- **[PR-25, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
+
+    Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, **Hangda Liu**, Zhulin An, Yongjun Xu
 
 - **[NPC-24, CCF-C]** [DTuner: A Construction-Based Optimization Method for Dynamic Tensor Operators Accelerating](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_5)
 
