@@ -26,7 +26,7 @@ My research primarily focuses on developing efficient tensor computation methods
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/bupt.png" alt="" style="width:75px; height:75px; margin-right:10px;" />
   <div>
-    B.S in <a href="https://scs.bupt.edu.cn">School of Computer Science</a>, 
+    B.E in <a href="https://scs.bupt.edu.cn">School of Computer Science</a>, 
     <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>,<br>
     Beijing, 2017-2021
   </div>
