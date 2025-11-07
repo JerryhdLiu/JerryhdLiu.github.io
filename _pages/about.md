@@ -35,7 +35,7 @@ My research primarily focuses on developing efficient tensor computation methods
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/lnssyzx.png" alt="" style="width:75px; height:75px; margin-right:10px;" />
   <div>
-    <a href="http://www.lnsyzx.com/">Liaoning Province Shiyan High School</a>,<br>
+    <a href="http://www.lnsyzx.cn/">Liaoning Province Shiyan High School</a>,<br>
     Shenyang, 2014-2017
   </div>
 </div>
@@ -45,7 +45,7 @@ My research primarily focuses on developing efficient tensor computation methods
 
 # [Publication](https://jerryhdliu.github.io/publications/)
 
-- **[IPDPS-25, CCF-B]** [Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](https://arxiv.org/pdf/2502.11407)
+- **[IPDPS-25, CCF-B]** [Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](https://ieeexplore.ieee.org/document/11078487)
 
     **Hangda Liu**, Boyu Diao*, Yu Yang, Wenxin Chen, Xiaohui Peng, Yongjun Xu
 
@@ -54,7 +54,7 @@ My research primarily focuses on developing efficient tensor computation methods
 
     **Hangda Liu**, Boyu Diao*, Wenxin Chen, Yongjun Xu
 
-- **[CCGrid-25, CCF-C]** [A Nonlinear Hash-based Optimization Method for SpMV on GPUs](https://arxiv.org/abs/2504.08860)
+- **[CCGrid-25, CCF-C]** [A Nonlinear Hash-based Optimization Method for SpMV on GPUs](https://ieeexplore.ieee.org/document/11044822)
 
     Chen Yan, Boyu Diao*, **Hangda Liu**, Zhulin An, Yongjun Xu
 
@@ -72,7 +72,7 @@ My research primarily focuses on developing efficient tensor computation methods
 
 # Honors & Awards
 
--  First Class Scholarship of University of Chinese Academy of Sciences, 2022&2023&2024
+-  First Class Scholarship of University of Chinese Academy of Sciences, 2022&2023&2024&2025
 -  ICT × E Fund Scholarship, 2022
 -  Merit Student of University of Chinese Academy of Sciences, 2022&2023&2025
 -  Outstanding graduate of Beijing, 2021
