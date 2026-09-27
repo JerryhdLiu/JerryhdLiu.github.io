@@ -45,6 +45,10 @@ My research primarily focuses on developing efficient tensor computation methods
 
 # [Publication](https://jerryhdliu.github.io/publications/)
 
+- **[TMC-26, CCF-A]** [E<sup>2</sup>Gensor: An Enhanced Elastic Graph-based Construction Tensor Compilation Method for On-device Deep Learning](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176231546.65469770/v1)
+
+    **Hangda Liu**, Boyu Diao, Jiashuo Luo, Yitian He, Yu Yang, Wenxin Chen, Guobang Li, Xiaohui Peng, Yongjun Xu
+
 - **[IPDPS-25, CCF-B]** [Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](https://ieeexplore.ieee.org/document/11078487)
 
     **Hangda Liu**, Boyu Diao*, Yu Yang, Wenxin Chen, Xiaohui Peng, Yongjun Xu
