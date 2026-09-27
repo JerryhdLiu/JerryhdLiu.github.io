@@ -76,6 +76,7 @@ My research primarily focuses on developing efficient tensor computation methods
 
 # Honors & Awards
 
+-  UCAS × BYD Scholarship, 2025
 -  First Class Scholarship of University of Chinese Academy of Sciences, 2022&2023&2024&2025
 -  ICT × E Fund Scholarship, 2022
 -  Merit Student of University of Chinese Academy of Sciences, 2022&2023&2025
